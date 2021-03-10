@@ -58,12 +58,6 @@
                                     "value": "accept"
                                 }
                             ],
-                            "volumeMounts": [
-                                {
-                                    "name": "filesharevolume",
-                                    "mountPath": "/var/ts3server"
-                                }
-                            ],
                             "resources": {
                                 "requests": {
                                     "memoryInGB": 1,
