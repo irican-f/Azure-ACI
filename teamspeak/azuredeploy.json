@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "resourceName": {
-            "defaultValue": "Teamspeak server",
+            "defaultValue": "teamspeak-server",
             "type": "String",
             "metadata": {
                 "description": "Name of the Container Instances resource deployed to your Azure account."
