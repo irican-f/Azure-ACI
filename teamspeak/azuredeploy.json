@@ -25,14 +25,14 @@
         },
         "storageAccountName": {
             "type": "string",
-            "defaultValue": "Teamspeak server storage",
+            "defaultValue": "maktepteamspeak",
             "metadata": {
                 "description": "Azure Storage account name"
             }
         },
         "shareName": {
             "type": "string",
-            "defaultValue": "Teamspeak storage share",
+            "defaultValue": "maktepteamspeakshare",
             "metadata": {
                 "description": "Azure Storage File Share name"
             }
